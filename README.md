@@ -91,8 +91,8 @@ More figures: [exploratory analysis](docs/figures/eda.png), [OLS residual diagno
 ## Getting started
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/Rajveena020/spatio-temporal-kriging.git
+cd spatio-temporal-kriging
 
 python -m venv .venv && source .venv/bin/activate    # optional
 pip install -r requirements.txt
